@@ -1,1 +1,1 @@
-console.log("BASE ROUTES v1");
+console.log("CHAT ROUTES ADDED");
